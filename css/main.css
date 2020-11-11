@@ -52,7 +52,7 @@ a {
 /* header styling */
 .height {
   min-height: 90vh;
-  background-image: url("https://github.com/Jagadish98/Car-Dealership/main/images/headerBcg.jpeg");
+  background-image: url("https://github.com/Jagadish98/Car-Dealership/blob/main/images/headerBcg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -233,7 +233,7 @@ a {
 /* contact-section */
 .height-contact {
   min-height: 30vh;
-  background-image: url(/images/headerBcg.jpeg);
+  background-image: url("../images/headerBcg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
