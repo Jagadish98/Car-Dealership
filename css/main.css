@@ -52,7 +52,7 @@ a {
 /* header styling */
 .height {
   min-height: 90vh;
-  background-image: url("https://github.com/Jagadish98/Car-Dealership/blob/main/images/headerBcg.jpeg");
+  background-image: url("../images/headerBcg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -134,7 +134,7 @@ a {
 /* question section */
 .questionbcg {
   min-height: 50vh;
-  background-image: url("https://github.com/Jagadish98/Car-Dealership/blob/main/images/questionBcg.jpeg");
+  background-image: url("../images/questionBcg.jpeg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
